@@ -1,4 +1,4 @@
-<img src="photo.jpg" width="180" style="border-radius:50%; margin-bottom:20px;">
+<img src="ChatGPT Image Feb 5, 2026 at 04_16_41 PM.pngwidth="180" style="border-radius:50%; margin-bottom:20px;"> 
 # Marina Vasylyeva
 ### Operations & Office Administrator  
 *Limassol, Cyprus · Remote-ready*
