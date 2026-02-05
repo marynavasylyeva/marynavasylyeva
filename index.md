@@ -1,10 +1,11 @@
 <img src="photo.jpg" width="180" style="border-radius:50%; margin-bottom:20px;">
 # Marina Vasylyeva
+
 ### Operations & Office Administrator  
-*Limassol, Cyprus · Remote-ready*
+Limassol, Cyprus · Remote-ready
 
-Highly organized Operations & Office Administrator with 9+ years of experience supporting international IT companies and executives. Strong background in office operations, payments, banking coordination, documentation, and operational support.
-
+Highly organized Operations & Office Administrator with 9+ years of experience supporting international IT companies and executives.  
+Strong background in office operations, payments, banking coordination, documentation, and operational support.
 ---
 
 ## About
